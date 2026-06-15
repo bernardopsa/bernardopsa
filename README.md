@@ -4,7 +4,7 @@
 
 Sou Engenheiro da Computação formado pelo IBMEC-RJ e residente no Rio de Janeiro. Tenho foco na construção de aplicações escaláveis, arquitetura de dados e na integração de soluções baseadas em Inteligência Artificial. Trago como diferencial um olhar forte para o design e UI/UX autodidata, garantindo que as entregas de software sejam não apenas robustas no back-end, mas visualmente refinadas e focadas na melhor experiência do usuário.
 
-<a href="https://linkedin.com/in/bernardopsa" target="_blank">
+<a href="https://linkedin.com/in/bernardo-psa" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
