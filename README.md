@@ -2,7 +2,7 @@
 
 **Engenheiro da Computação | Software Development | Data Engineering**
 
-Sou Engenheiro da Computação formado pelo IBMEC-RJ e residente no Rio de Janeiro. Tenho foco na construção de aplicações escaláveis, arquitetura de dados e na integração de soluções baseadas em Inteligência Artificial. Trago como diferencial um olhar forte para o design e UI/UX autodidata, garantindo que as entregas de software sejam não apenas robustas no back-end, mas visualmente refinadas e focadas na melhor experiência do usuário.
+Sou Engenheiro da Computação formado pelo IBMEC-RJ. Tenho interesse e desenvolvo habilidades no desenvolvimento de aplicações escaláveis, engenharia de dados e na integração de soluções baseadas em Inteligência Artificial. Trago como diferencial um olhar forte para o design e UI/UX autodidata, garantindo que as entregas de software sejam não apenas robustas no back-end, mas visualmente refinadas e focadas na melhor experiência do usuário.
 
 ---
 
