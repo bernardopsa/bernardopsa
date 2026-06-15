@@ -26,4 +26,4 @@ Sou Engenheiro da Computação formado pelo IBMEC-RJ e residente no Rio de Janei
 
 ---
 
-> *""A única maneira de fazer um grande trabalho é amar o que você faz.” (STEVE JOBS, 2005)"*
+> *"A única maneira de fazer um grande trabalho é amar o que você faz.” (STEVE JOBS, 2005)*
