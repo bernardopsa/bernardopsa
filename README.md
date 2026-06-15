@@ -26,4 +26,4 @@ Sou Engenheiro da Computação formado pelo IBMEC-RJ e residente no Rio de Janei
 
 ---
 
-> *"Sempre em busca de aprender fazendo e transformar problemas complexos em soluções eficientes e bem desenhadas."*
+> *""A única maneira de fazer um grande trabalho é amar o que você faz.” (STEVE JOBS, 2005)"*
