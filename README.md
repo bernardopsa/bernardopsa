@@ -12,14 +12,4 @@ Sou Engenheiro da Computação formado pelo IBMEC-RJ. Tenho interesse e desenvol
 
 ---
 
-## 📊 Estatísticas
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardopsa&layout=compact&theme=tokyonight&locale=pt-br&custom_title=Linguagens%20Mais%20Utilizadas">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardopsa&layout=compact&locale=pt-br&custom_title=Linguagens%20Mais%20Utilizadas">
-  <img alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardopsa&layout=compact&locale=pt-br&custom_title=Linguagens%20Mais%20Utilizadas">
-</picture>
-
----
-
 > *"A única maneira de fazer um grande trabalho é amar o que você faz.” (STEVE JOBS, 2005)*
